@@ -1,0 +1,10 @@
+C:\Proyectos\ExportBiostar\ExportBiostar\bin\Debug\ExportBiostar.exe.config
+C:\Proyectos\ExportBiostar\ExportBiostar\bin\Debug\ExportBiostar.exe
+C:\Proyectos\ExportBiostar\ExportBiostar\bin\Debug\ExportBiostar.pdb
+C:\Proyectos\ExportBiostar\ExportBiostar\obj\Debug\ExportBiostar.exe
+C:\Proyectos\ExportBiostar\ExportBiostar\obj\Debug\ExportBiostar.pdb
+C:\Proyectos\ExportBiostar\ExportBiostar\bin\Debug\ExportBiostar.exe.manifest
+C:\Proyectos\ExportBiostar\ExportBiostar\bin\Debug\ExportBiostar.application
+C:\Proyectos\ExportBiostar\ExportBiostar\obj\Debug\ExportBiostar.exe.manifest
+C:\Proyectos\ExportBiostar\ExportBiostar\obj\Debug\ExportBiostar.application
+C:\Proyectos\ExportBiostar\ExportBiostar\obj\Debug\ExportBiostar.csprojResolveAssemblyReference.cache
